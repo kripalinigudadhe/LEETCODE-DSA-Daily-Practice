@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/contains-duplicate-iii">Contains Duplicate III</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an integer array <code>nums</code> and two integers <code>indexDiff</code> and <code>valueDiff</code>.</p>
 
-<p>Find a pair of indices <code>(i, j)</code> such that:</p>
+<p>Find pair of indices <code>(i, j)</code> such that:</p>
 
 <ul>
 	<li><code>i != j</code>,</li>
